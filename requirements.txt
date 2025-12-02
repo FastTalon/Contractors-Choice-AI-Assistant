@@ -1,0 +1,15 @@
+streamlit
+pandas
+matplotlib
+langchain
+langchain-openai
+langchain-groq
+langchain-community
+langchain-experimental
+langchain-text-splitters
+huggingface-hub
+sentence-transformers
+pypdf
+faiss-cpu
+fpdf
+requests
